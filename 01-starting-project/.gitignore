@@ -1,0 +1,14 @@
+node_modules
+.eslintcache
+dist
+.DS_Store
+\.vscode/
+screen/*
+!screen/.gitkeep
+cypress/screenshots
+cypress/snapshots
+cypress/videos
+.idea/
+deploy/config.env
+coverage
+/utocat-catalizr-v1-frontend.iml
